@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main() {
+  printf("안녕하세요\n");
+  printf("학과: 컴퓨터공학부\n");
+  printf("학변: 202200720\n");
+  printf("이름: 김소정\n");
+  
+  return 0;
+}
